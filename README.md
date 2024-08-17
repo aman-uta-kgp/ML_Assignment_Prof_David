@@ -10,4 +10,6 @@ This is a group assignment by :
 ### Question 1
 The hand written write up answers the two probability problems. For part (a), the fraction of people who are truthful clickers and answered yes, has been calculated. For part (b), the probability of someone having the disease given that they tested positive has been calculated using Bayes' Theorm
 
+### Question 2
+This is an illustrative answer to the three parts of the Wrangling the Billboard Top 100 question. The python notebook should be accompanied by the data file [billboards.csv](https://github.com/dpuelz/STA380/blob/master/data/billboard.csv)
 
