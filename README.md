@@ -24,4 +24,4 @@ This is highly explorative question prompt. We are provided with [writing sample
 - Conclusion : k-means++ using cosine distance measure on top of PCA is a very powerful tool to uncover otherwise hidden relationships
 
 ### Question 9
-This is an image classification problem statement. The goal is to predict the landscape (10 unique values including Road, Forest etc). The images data can be found [here](https://github.com/dpuelz/STA380/tree/master/data/EuroSAT_RGB). We used CNN model to train on the labelled dataset. Some design calls taken during setting up network architecture include - not using padding, using only one pooling layer and 3 convolution layers. 
+This is an image classification problem statement. The goal is to predict the landscape (10 unique values including Road, Forest etc). The images data can be found [here](https://github.com/dpuelz/STA380/tree/master/data/EuroSAT_RGB). We used CNN model to train on the labelled dataset. Some design calls taken during setting up network architecture include - not using padding, using only one max pooling layer and 3 convolution layers. 
