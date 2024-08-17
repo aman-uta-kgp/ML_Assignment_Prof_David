@@ -22,3 +22,6 @@ This is highly explorative question prompt. We are provided with [writing sample
 - Approach : We will tokenize and vectorize all documents, for unsupervised algorithms to be able to consume them
 - Results : There are three major categories we could uncover from our analysis - journalists who write about banking and finance, ones who report about China / Taiwan and finally the ones who focus on automobiles industry. The ones writing about finance are the highest in number.
 - Conclusion : k-means++ using cosine distance measure on top of PCA is a very powerful tool to uncover otherwise hidden relationships
+
+### Question 9
+This is an image classification problem statement. The goal is to predict the landscape (10 unqiue values including Road, Forest etc). The images data can be found [here](https://github.com/dpuelz/STA380/tree/master/data/EuroSAT_RGB). We used CNN model to train on the labelled dataset. Some design calls taken during setting up network architecture include - not using padding, using only one pooling layer and 3 convolution layers. 
