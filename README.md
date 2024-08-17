@@ -21,4 +21,4 @@ This is highly explorative question prompt. We are provided with [writing sample
 - Question : Explore if an unsupervised algorithm can identify industries a group of journalists reports about
 - Approach : We will tokenize and vectorize all documents, for unsupervised algorithms to be able to consume them
 - Results : There are three major categories we could uncover from our analysis - journalists who write about banking and finance, ones who report about China / Taiwan and finally the ones who focus on automobiles industry. The ones writing about finance are the highest in number.
-- Conclusion : k-means on top of PCA is a very powerful tool to uncover otherwise hidden relationships
+- Conclusion : k-means++ using cosine distance measure on top of PCA is a very powerful tool to uncover otherwise hidden relationships
