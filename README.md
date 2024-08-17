@@ -20,5 +20,5 @@ This solution delves into the folds of an argument made by an analyst at real es
 This is highly explorative question prompt. We are provided with [writing samples](https://github.com/dpuelz/STA380/tree/master/data/ReutersC50) of 50 journalists (labelled), and using this infomation we can work to uncover supervised or unsupervised learning quests. We choose an unsupervised task. Here are the exact details of the questions we sought answers for along with our findings. <br>
 - Question : Explore if an unsupervised algorithm can identify industries a group of journalists reports about
 - Approach : We will tokenize and vectorize all documents, for unsupervised algorithms to be able to consume them
-- Results : There are three major categories we could uncover from our analysis - journalists who write about China, ones who write about automobiles and finally the ones who write about finance and banking. The ones writing about finance are the most
+- Results : There are three major categories we could uncover from our analysis - journalists who write about banking and finance, ones who report about China / Taiwan and finally the ones who focus on automobiles industry. The ones writing about finance are the highest in number.
 - Conclusion : k-means on top of PCA is a very powerful tool to uncover otherwise hidden relationships
