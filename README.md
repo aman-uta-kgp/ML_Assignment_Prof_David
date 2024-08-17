@@ -1,4 +1,4 @@
-# Read Me
+# Solution to Assignment Project (STA S380)
 
 This repository has solutions to assignment questions for the course STA S380 : Introduction to Machine Learning at UT Austin. This part of the course is taught by [Prof. David Puelz](https://www.mccombs.utexas.edu/faculty-and-research/faculty-directory/david-puelz/). The questions can be found [here](https://github.com/dpuelz/STA380/tree/master/exercises).
 
